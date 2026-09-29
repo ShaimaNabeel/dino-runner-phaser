@@ -4,6 +4,10 @@ A browser-based endless runner game developed with Phaser.js.
 
 The player controls a dinosaur, avoids obstacles, collects points, and reaches a game-over state after a collision.
 
+## Gameplay
+
+![Dino Runner Game](images/dino-gameplay.png)
+
 ## Features
 
 - Player movement controls
